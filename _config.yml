@@ -1,10 +1,10 @@
 # Site specific settings
-title: "Title to this website"
+title: "DC207"
 name: "Website name"
-keywords: "Key, words, about, this, website"
+keywords: "Maine, Hackers, DC207"
 baseurl: "/darcli"
-url: "http://website.com"
-description: "Website description"
+url: "http://www.dc207.org"
+description: "Home of DC207"
 cover: "/assets/img/cover.svg"
 fanpage_id: ""
 
@@ -17,11 +17,11 @@ ssl: false # It will redirect to https
 # Just the shortname:
 # facebook: lampiaosec # Rigth
 # facebook: facebook.com/lampiaosec # Wrong
-disqus: test
-twitter: 
-facebook: 
-github: 
-google:
+#disqus: test
+#twitter: 
+#facebook: 
+#github: 
+#google:
 
 # Build settings
 markdown: kramdown
