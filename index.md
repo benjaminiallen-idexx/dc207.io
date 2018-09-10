@@ -5,14 +5,14 @@ layout: default
 # $ cat about.txt
 {:id="about"}
 
-This is a theme intended to use to [lampiaosec](https://lampiaosec.github.io). So, it's our taste, but because we like free culture, it's free to.
-
-The categories to post was to support us, but you can change as you need.
+DC207 is a DEF CON group focused on community, education, mentoring and bringing the hacker and InfoSec community in Maine together. We meet the fourth Friday of every month in the Old Port. It is a gathering that will feature presentations, workshops, CTFs, and anything else in which the community is interested. The group is community-driven, and allows its members to be active so they can learn or teach about a subject they are passionate about. DC207 also supports the already-existing security-related and technology-focused groups, and we encourage members of all groups to collaborate and share knowledge. We are strong together!
+<br><br>
+The mission of the DC207 group is to advance knowledge and educate anyone interested in science, technology, and other areas of information security through project collaborations, group gatherings, and group activities that will best serve our community and the world.
 
 # $ cat contact.txt
 {:id="contact"}
 
-I think that all about this theme is intuitive, but if you want help, please, contact me: [gjuniioor](https://github.com/gjuniioor).
+E-mail us at root@dc207.org
 
 # $ cat team.txt
 {:id="team"}
