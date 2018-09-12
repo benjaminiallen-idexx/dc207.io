@@ -14,21 +14,6 @@ The mission of the DC207 group is to advance knowledge and educate anyone intere
 
 E-mail us at root@dc207.org
 
-# $ cat team.txt
-{:id="team"}
-
-<ul>
-{% for member in site.categories.team reversed %}
-<li id="{{ member.title }}">{{ member.title }}
-<ul>
-<li>{{ member.mail }}</li>
-<li><a href="https://github.com/{{ member.github }}">https://github.com/{{ member.github }}</a></li>
-<li><a href="{{ member.site }}">{{ member.site }}</a></li>
-</ul>
-</li>
-{% endfor %}
-</ul>
-
 # $ cat CTF.txt
 {:id="projects"}
 
