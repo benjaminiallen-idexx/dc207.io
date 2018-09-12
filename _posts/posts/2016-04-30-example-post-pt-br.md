@@ -5,7 +5,7 @@ date: 2018-09-12
 categories: posts
 en: false
 comments: true
-description: descrição do post para SEO
+description: DC207 Resurrected: OSINT - What we already know 
 keywords: "hacking, dc207, maine, security"
 authors:
     - Benjamin Allen
