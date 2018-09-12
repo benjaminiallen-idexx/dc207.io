@@ -1,5 +1,5 @@
 ---
-role: Founding memeber
+role: Founding member
 hax0r handle: Virginia Ham
 Name: Benjamin Isaac Allen
 github: ballinballen
