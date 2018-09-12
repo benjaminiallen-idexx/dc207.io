@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Título do post
-date: 2016-04-30 01:00:00
+title: DC207 Resurrected: OSINT - What we already know 
+date: 2018-09-12
 categories: posts
 en: false
 comments: true
 description: descrição do post para SEO
-keywords: "palavras, chaves, desse, post, para, SEO"
+keywords: "hacking, dc207, maine, security"
 authors:
-    - author1
-    - author2
+    - Benjamin Allen
+    - David Freedman
 ---
 
-Exemplo de post, digamos que seria uma tradução para outra língua. Então, basta marcar a variável `en` como `false` que o post não será listado novamente na `index.html`.
+Our first meeting will take place on November 8th, 2018. We'll have a 20 minute talk about open source intellegence titled: "OSINT - What we already know". We'll explore open source intellegence and how effective it can be in gain access to resources. You'll learn what you need to do to profile yourself, and your own company. 
 
-No mais, basta deixar as variáveis como estão ou ir testando, está tudo bem intuitivo.
+We'll also take a little time to talk though the solution of the CTF challenge posted below. We'll talk about how we want to run our meetings, CTF challenges, and have a drink or two afterwards. So please, come, we want you! (to break stuff)
