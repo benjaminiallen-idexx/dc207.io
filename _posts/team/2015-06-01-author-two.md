@@ -1,7 +1,8 @@
 ---
-title: author2
-github: gjuniioor
-site: https://gjuniioor.github.io
-mail: email@author
+role: Founding member
+hax0r handle: *REDACTED*
+Name: David J. Freedman
+github: *REDACTED*
+mail: dave@dc207.org
 categories: team
 ---
