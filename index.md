@@ -29,7 +29,7 @@ E-mail us at root@dc207.org
 {% endfor %}
 </ul>
 
-# $ cat projects.txt
+# $ cat CTF.txt
 {:id="projects"}
 
 <ul>
@@ -38,25 +38,7 @@ E-mail us at root@dc207.org
 {% endfor %}
 </ul>
 
-# $ cat tools.txt
-{:id="tools"}
-
-<ul>
-{% for tool in site.categories.tools %}
-<li><a href="{{ tool.link }}">{{ tool.title }}</a> - {{ tool.description }}</li>
-{% endfor %}
-</ul>
-
-# $ cat talks.txt
-{:id="talks"}
-
-<ul>
-{% for talk in site.categories.talks %}
-<li><a href="{{ talk.link }}" title="{{ talk.description }}">{{ talk.title }}</a> at {{ talk.where }}</li>
-{% endfor %}
-</ul>
-
-# $ cat posts.txt
+# $ cat meetings.txt
 {:id="posts"}
 
 <ul>
@@ -69,15 +51,3 @@ E-mail us at root@dc207.org
 {% endfor %}
 </ul>
 
-# $ cat articles.txt
-{:id="articles"}
-
-<ul>
-{% for post in site.categories.articles %}
-
-{% if post.en %}
-<li>{{ post.title }} :: <a href="{{ post.url }}" title="{{ post.description }}">en</a> :: <a href="{{ post.pt }}" title="{{ post.description_pt }}">pt_br</a></li>
-{% endif %}
-
-{% endfor %}
-</ul>
