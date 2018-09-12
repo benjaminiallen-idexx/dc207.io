@@ -1,7 +1,9 @@
 ---
-title: author1
-github: gjuniioor
-site: https://gjuniioor.github.io
-mail: email@author
+role: Founding memeber
+hax0r handle: Virginia Ham
+Name: Benjamin Isaac Allen
+github: ballinballen
+site: http://www.benjaminisaacallen.com
+mail: hello@benjaminisaacallen.com
 categories: team
 ---
