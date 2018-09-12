@@ -14,15 +14,6 @@ The mission of the DC207 group is to advance knowledge and educate anyone intere
 
 E-mail us at root@dc207.org
 
-# $ cat CTF.txt
-{:id="projects"}
-
-<ul>
-{% for project in site.categories.projects %}
-<li><a href="{{ project.link }}">{{ project.title }}</a> - {{ project.description }}</li>
-{% endfor %}
-</ul>
-
 # $ cat meetings.txt
 {:id="posts"}
 
@@ -33,6 +24,15 @@ E-mail us at root@dc207.org
 <li>{{ post.title }} :: <a href="{{ post.url }}" title="{{ post.description }}">en</a> :: <a href="{{ post.pt }}" title="{{ post.description_pt }}">pt_br</a></li>
 {% endif %}
 
+{% endfor %}
+</ul>
+
+# $ cat CTF.txt
+{:id="projects"}
+
+<ul>
+{% for project in site.categories.projects %}
+<li><a href="{{ project.link }}">{{ project.title }}</a> - {{ project.description }}</li>
 {% endfor %}
 </ul>
 
