@@ -17,10 +17,12 @@ E-mail us at root@dc207.org
 # $ cat meetings.txt
 {:id="posts"}
 
-title: DC207 Resurrected: OSINT - What we already know <br>
-date of meeting: 2018-11-09<br>
-description: DC207 Resurrected. Talk by Benjamin Allen, OSINT - What we already know. 
+### title: DC207 Resurrected: OSINT - What we already know <br>
+### date of meeting: 2018-11-09<br>
+### description: DC207 Resurrected. Talk by Benjamin Allen, OSINT - What we already know.<br><br>
+Our first meeting will take place on November 8th, 2018. We'll have a 20 minute talk about open source intellegence titled: "OSINT - What we already know". We'll explore open source intellegence and how effective it can be in gain access to resources. You'll learn what you need to do to profile yourself, and your own company.<br><br>
 
+We'll also take a little time to talk though the solution of the CTF challenge posted below. We'll talk about how we want to run our meetings, CTF challenges, and have a drink or two afterwards.
 # $ cat CTF.txt
 {:id="projects"}
 
