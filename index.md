@@ -17,9 +17,9 @@ E-mail us at root@dc207.org
 # $ cat meetings.txt
 {:id="posts"}
 
-title: DC207 Resurrected: OSINT - What we already know 
-date of meeting: 2018-11-09
-description: DC207 Resurrected: OSINT - What we already know 
+title: DC207 Resurrected: OSINT - What we already know <br>
+date of meeting: 2018-11-09<br>
+description: DC207 Resurrected. Talk by Benjamin Allen, OSINT - What we already know. 
 
 # $ cat CTF.txt
 {:id="projects"}
