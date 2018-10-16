@@ -18,7 +18,7 @@ E-mail us at root@dc207.org
 {:id="posts"}
 
 ### title: DC207 Resurrected: OSINT - What we already know <br>
-### date of meeting: 2018-11-09<br>
+### date of meeting: November 08 2018<br>
 ### description: DC207 Resurrected. Talk by Benjamin Allen, OSINT - What we already know.<br><br>
 Our first meeting will take place on November 8th, 2018. We'll have a 20 minute talk about open source intellegence titled: "OSINT - What we already know". We'll explore open source intellegence and how effective it can be in gain access to resources. You'll learn what you need to do to profile yourself, and your own company.<br><br>
 
