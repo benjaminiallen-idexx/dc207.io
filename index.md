@@ -17,6 +17,13 @@ E-mail us at root@dc207.org
 # $ cat meetings.txt
 {:id="posts"}
 
+### title: Let’s not wait for the heat death of the universe before we secure our APIs<br>
+### date of meeting: December 13th 2018<br>
+### description: Horrors of API security revealed! Talk by Ben Hamilton.<br><br>
+Meeting two! DC207 is back in action with a hot security topic, pizza, and prizes on December 13th. Ben Hamilton will be presenting a talk focused on vulnrabilities in APIs. He'll explore how APIs are an often overlooked by development teams.<br><br>
+
+Pizza from OTTO, softdrinks on site. The CTF event requires a write-up, submit yours @ root@dc207.org for a chance for to win a Pen-testing Raspberry Pi. See you there!
+
 ### title: DC207 Resurrected: OSINT - What we already know <br>
 ### date of meeting: November 08 2018<br>
 ### description: DC207 Resurrected. Talk by Benjamin Allen, OSINT - What we already know.<br><br>
