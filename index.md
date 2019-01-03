@@ -17,6 +17,14 @@ E-mail us at root@dc207.org
 # $ cat meetings.txt
 {:id="posts"}
 
+
+### title: Vulnerabilities BITCHES!!1<br>
+### date of meeting: January 10th 2018<br>
+### description: Exploiting the known vectors. How to detect and select. Talk by David Freedman.<br><br>
+Meeting three! DC207 is back in action with a fun talk about vulnrabilities and exploitations. David Freedman will be our guest speaker, a security architect for one of Maine's largest companies. So, be there or be square!<br><br>
+
+Pizza from OTTO, softdrinks on site. Prizes will be awarded to the people who successfully complete the CTF challenge. CTF event now being hosted digitally. Sign up at ctf.dc207.org! 
+
 ### title: Let’s not wait for the heat death of the universe before we secure our APIs<br>
 ### date of meeting: December 13th 2018<br>
 ### description: Horrors of API security revealed! Talk by Ben Hamilton.<br><br>
