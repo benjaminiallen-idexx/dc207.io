@@ -18,12 +18,15 @@ E-mail us at root@dc207.org
 {:id="posts"}
 
 
-### title: Vulnerabilities BITCHES!!1<br>
-### date of meeting: January 10th 2018<br>
-### description: Exploiting the known vectors. How to detect and select. Talk by David Freedman.<br><br>
-Meeting three! DC207 is back in action with a fun talk about vulnrabilities and exploitations. David Freedman will be our guest speaker, a security architect for one of Maine's largest companies. So, be there or be square!<br><br>
+### title: DC207 CTF<br>
+### date of meeting: Febuary 21st 2018<br>
+### description: Lockpicking workshop.<br><br>
+Join us for a fun workshop teaching the subject of lockpicking. This fun will really open some doors (get it?) for people. RSVP for a free lockpick kit and deadbolt to learn with. Will be hosted at Locally Sauced on Thompson's Point. 
 
-Pizza from OTTO, softdrinks on site. Prizes will be awarded to the people who successfully complete the CTF challenge. CTF event now being hosted digitally. Sign up at ctf.dc207.org! 
+### title: DC207 CTF<br>
+### date of meeting: January 10th 2019<br>
+### description: Shall we play a game?.<br><br>
+Please join us for an evening of hacking, snacking, drinking, and watching the movie "Hackers". Meeting
 
 ### title: Let’s not wait for the heat death of the universe before we secure our APIs<br>
 ### date of meeting: December 13th 2018<br>
