@@ -23,7 +23,7 @@ E-mail us at root@dc207.org
 After the fun of our first CTF, it's back again! We'll break up into teams and challenge you and your team mates to break the security of servers and applications. We'll be screening the 1995 classic "The Net" - you won't want to miss it!
 
 ### title: War Games - Teaching threat modeling <br>
-### date of meeting: March 11th 2018<br>
+### date of meeting: April 11th 2018<br>
 ### description: Want to learn a card trick? <br><br>
 Ready to have some fun and learn about threat modeling in the process? We'll be breaking into groups and playing elevation of privilege. It's a super fun way to learn how to make the dull threat modeling a little more fun and lively. Come join us for drinks, cards, and pizza, it'll be a blast.
 
