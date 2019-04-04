@@ -18,22 +18,22 @@ E-mail us at root@dc207.org
 {:id="posts"}
 
 ### title: DC207 CTF<br>
-### date of meeting: May 9th 2018<br>
+### date of meeting: May 9th 2019<br>
 ### description: Shall we play another game? <br><br>
 After the fun of our first CTF, it's back again! We'll break up into teams and challenge you and your team mates to break the security of servers and applications. We'll be screening the 1995 classic "The Net" - you won't want to miss it!
 
 ### title: War Games - Teaching threat modeling <br>
-### date of meeting: April 11th 2018<br>
+### date of meeting: April 11th 2019<br>
 ### description: Want to learn a card trick? <br><br>
 Ready to have some fun and learn about threat modeling in the process? We'll be breaking into groups and playing elevation of privilege. It's a super fun way to learn how to make the dull threat modeling a little more fun and lively. Come join us for drinks, cards, and pizza, it'll be a blast.
 
 ### title: Remote persistant access<br>
-### date of meeting: March 14th 2018<br>
+### date of meeting: March 14th 2019<br>
 ### description: Pentesting tools in action<br><br>
 Join us back at out home in Covetrus for a talk about pentesting and remote access. Agenda items will also include planning for the May CTF game. 
 
 ### title: DC207 Lockpick Workshop<br>
-### date of meeting: Febuary 21st 2018<br>
+### date of meeting: Febuary 21st 2019<br>
 ### description: Lockpicking workshop.<br><br>
 Join us for a fun workshop teaching the subject of lockpicking. This fun will really open some doors (get it?) for people. RSVP for a free lockpick kit and deadbolt to learn with. Will be hosted at Locally Sauced on Thompson's Point. 
 
