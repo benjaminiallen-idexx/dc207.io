@@ -17,6 +17,11 @@ E-mail us at root@dc207.org
 # $ cat meetings.txt
 {:id="posts"}
 
+### title: IT'S A TRAP!<br>
+### date of meeting: June 13th 2019<br>
+### description: A practical session covering pentesting basics in the cloud. <br><br>
+Last time, we had some fun with a CTF game, but we identified some areas to cover. Ryan Botot will present "IT'S A TRAP!", a practical hands-on excercise on pentesting cloud servers. So come prepared with your computer and the willingness to learn about some new concepts. 
+
 ### title: DC207 CTF<br>
 ### date of meeting: May 9th 2019<br>
 ### description: Shall we play another game? <br><br>
