@@ -17,6 +17,16 @@ E-mail us at root@dc207.org
 # $ cat meetings.txt
 {:id="posts"}
 
+### title: #tryharder, my OSCP experience and tips<br>
+### date of meeting: September 12 2019<br>
+### description: All things OSCP <br><br>
+Looking to try harder and earn your OSCP? Why not come join us then! We'll be talking all things OSCP, and Ben Mason will be walking us through how the OSCP test works and how you ought to study to earn the cert! 
+
+### title: DEFCON Rollup<br>
+### date of meeting: August 15th<br>
+### description: DC207 members swap stories about their DEFCON highlights<br><br>
+Since DEFCON was being held at our typical meeting time, we're meeting a week later to discuss all things DEFCON. We'll chat about highlights, talks, and experinces. Join us for a recap!
+
 ### title: IT'S A TRAP!<br>
 ### date of meeting: June 13th 2019<br>
 ### description: A practical session covering pentesting basics in the cloud. <br><br>
